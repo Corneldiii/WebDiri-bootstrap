@@ -5,11 +5,11 @@ html{
 }
 
 body {
-    min-height: 2000px;
+    min-height: 5000px;
 }
 
 .jumbotron{
-    background-color: #C68484;
+    background-color: #eddfd7;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -21,4 +21,8 @@ body {
     border-radius: 50%;
     border-style: solid;
     border-color: rgb(79, 58, 27);
+}
+
+#project{
+    background-color: #F7DED0;
 }
